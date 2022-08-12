@@ -7,6 +7,11 @@ export default function Child({childToParent}) {
             <button  onClick={() => childToParent()}>Click Child</button>
             <button  >Click Child</button>
 
+            <button  >Click Child</button>
+            <button  >Click Child</button>
+            <button  >Click Child</button>
+            <button  >Click Child</button>
+
         </div>
     )
 }
